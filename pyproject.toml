@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "AI-powered synthetic data generation — structured tables, unstructured documents, multi-provider LLM support, referential integrity, and code-gen mode for millions of rows"
 requires-python = ">=3.10"
 # drop an unused branch
+# clarify the control flow
